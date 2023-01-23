@@ -24,6 +24,10 @@ You're now ready to install:
 
 👉 To stay informed of new releases, make sure to [watch this repository's releases](https://help.github.com/en/articles/watching-and-unwatching-releases-for-a-repository).
 
+## Customisation
+
+there is a line near the top of the front template: `var goFirst = false;`. Changing that value to true will make the template start from the first move rathar than the secon. The issue is it will allways show the first move as white, and I wasn't able to fix this. I prefer to design cards where you can see the last move the opponent made. 
+
 ## Upgrading
 
 The upgrade process is typically the same as the installation process explained in the [previous section](#getting-started). However, some situations require extra care. As a general rule, **always read the release notes carefully**; they will likely tell you what to do or point you to a page that does.
