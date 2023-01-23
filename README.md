@@ -37,8 +37,3 @@ The upgrade process is typically the same as the installation process explained 
 
 #### this uses a slightly modified besgo for the viewer
 https://yewang.github.io/besogo/
-
-#### and some cards from https://gitlab.com/Adam314159/hugo-ltpg
-
-#### ultimate geography for the plagiarized readme
-https://github.com/anki-geo/ultimate-geography
