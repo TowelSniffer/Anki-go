@@ -1,8 +1,7 @@
 # go
  A Go/Baduk template for Anki
 
-<a href="https://gifyu.com/image/DhcX"><img src="https://s3.gifyu.com/images/Go.gif" alt="Go.gif" border="0" /></a>
-
+![chess GIF](examples/ankiGo.webp)
 
 
 ## Features
