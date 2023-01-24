@@ -26,7 +26,7 @@ You're now ready to install:
 
 ## Customisation
 
-there is a line near the top of the front template: `var goFirst = false;`. Changing that value to true will make the template start from the first move rathar than the secon. The issue is it will allways show the first move as white, and I wasn't able to fix this. I prefer to design cards where you can see the last move the opponent made. 
+there is a line near the top of the front template: `var goFirst = false;`. Changing that value to true will make the template start from the first move rathar than the secon. The issue is it will allways show the first move as black, and I wasn't able to fix this. I prefer to design cards where you can see the last move the opponent made anyway and it was the easiest way to deal with a lot of issues relating to this (such as indicating whos move it is on toutch screen devices). 
 
 ## Upgrading
 
