@@ -27,6 +27,8 @@ You're now ready to install:
 
 there is a line near the top of the front template: `var goFirst = false;`. Changing that value to true will make the template start from the first move rathar than the secon. The issue is it will allways show the first move as black, and I wasn't able to fix this. I prefer to design cards where you can see the last move the opponent made anyway and it was the easiest way to deal with a lot of issues relating to this (such as indicating whos move it is on toutch screen devices). 
 
+Note: another issue setting this option is if you flip the cards too fast, somethimes the first move will autoplay. This is due to some weirdness with a timeout funtion that I cant seem to fix. modifying the timeout `var myTimeout = setTimeout(nextMove, 200);` by lowering 200 to something like 50 should work, unless you are super fast at flipping (there are three instances to change on the front side and one on the back).
+
 ## Upgrading
 
 The upgrade process is typically the same as the installation process explained in the [previous section](#getting-started). However, some situations require extra care. As a general rule, **always read the release notes carefully**; they will likely tell you what to do or point you to a page that does.
