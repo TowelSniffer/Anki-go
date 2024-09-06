@@ -1,7 +1,7 @@
 # go
  A Go/Baduk template for Anki
 
-![chess GIF](examples/ankiGo.gif)
+![chess GIF](examples/ankiGo.webp)
 
 
 ## Features
