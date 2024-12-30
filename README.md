@@ -39,6 +39,10 @@ by adding a comment in your SGF solution that begins with "INCORRECT", "WRONG" o
 
 Note: another issue setting this option is if you flip the cards too fast, sometimes the first move will autoplay. This is due to some weirdness with a timeout funtion that I cant seem to fix. modifying the timeout `var myTimeout = setTimeout(nextMove, 200);` by lowering 200 to something like 50 should work, unless you are super fast at flipping (there are three instances to change on the front side and one on the back).
 
+### realistic stones
+
+setting the realstones variable to true/false will decide if the board renders realistic stones. `var realstones = false;`
+
 ## Upgrading
 
 The upgrade process is typically the same as the installation process explained in the [previous section](#getting-started). However, some situations require extra care. As a general rule, **always read the release notes carefully**; they will likely tell you what to do or point you to a page that does.
