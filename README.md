@@ -19,7 +19,7 @@ You're now ready to install:
 1. Open Anki and make sure your devices are all synchronized.
 1. In the _File_ menu, select _Import_.
 1. Browse for and select the downloaded file `go.apkg`.
-1. Download the Media Files.rar folder and extract. Copy the contents of the Media Files folder into you anki collection.media folder
+1. If you wish to use real images for stones, download the Media Files.rar folder and extract. Copy the contents of the Media Files folder into you anki collection.media folder
 
 👉 To stay informed of new releases, make sure to [watch this repository's releases](https://help.github.com/en/articles/watching-and-unwatching-releases-for-a-repository).
 
